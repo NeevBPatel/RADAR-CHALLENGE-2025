@@ -12,3 +12,8 @@ The CN0566 Phaser kit was configured as a receiver-only phased array antenna sys
 # Simulation Results
 ![imaging](gen_1.gif)
 ![imaging](gen_2.gif)
+
+# Practical results
+![imaging](3.png)
+![imaging](4.png)
+
