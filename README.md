@@ -32,3 +32,8 @@ to several technical papers presented in international conferences. His current
 research interests include Beam forming of antenna array, computational 
 electromagnetics, spacecraft charging and microwave engineering.
 
+### Kosha Shah
+>Kosha Shah is currently pursuing a Bachelor of Technology from Dharamsinh Desai University. Her academic pursuits lie in the field of Application of Artificial Intelligence, Algorithm Optimization, and Signal Processing. She aspires to contribute to advanced research and innovation in this field.
+
+### Yashvi Mojidra
+>Yashvi Mojidra is currently pursuing Bachelor of Technology in Electronics and Communications from Dharmsinh Desai University. Her academic and research interests primarily focus on the design and development of analog and digital circuits, digital system design and hardware implementation. She has successfully implemented a 6-transistor STAM bit-cell using the Cadence Virtuoso EDA tool. She is dedicated to making meaningful contributions to this field and will direct her efforts accordingly.
