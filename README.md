@@ -9,4 +9,12 @@ __IDE:__
 Spyder
 
 __Essential Libraries:__
-numpy, scipy, Cupy, matplotlib, pyadi-iio
+numpy, scipy, Cupy, matplotlib, pyadi-iio, adi
+
+# Team
+The team belongs to the Electronics and Communication Department, Dharmsinh Desai University, Nadiad, India
+
+### Neev Biren Patel (Team Leader)
+> Neev Biren Patel, currently pursuing B.Tech, is a dedicated student focused on radar 
+systems and wireless communications. His research interests include Adaptive Phased 
+Arrays, Digital Beamforming, MIMO techniques, and 5G/6G Wireless Networks.<
