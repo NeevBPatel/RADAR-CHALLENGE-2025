@@ -2,7 +2,15 @@
 Welcome to the Repository of our project for the 2025 IEEE AESS Radar Challenge where we explore the concepts of Genetic Algorithms, Dual Beamforming and Target tracking to ultimately build our own cost-effective X-band RADAR using the Analog Devices CN0566 Phaser kit
 
 # Software Used
-_Coding language:_
+__Coding language:__
 Python-3.10.15
-_IDE:_
+
+__IDE:__
 Spyder
+
+__Essential Libraries:__
+-numpy
+-scipy
+-Cupy
+-matplotlib
+-pyadi-iio
