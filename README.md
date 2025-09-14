@@ -10,11 +10,7 @@ Spyder
 
 __Essential Libraries:__
 numpy
-
-scipy
-
-Cupy
-
-matplotlib
-
-pyadi-iio
+  scipy
+  Cupy
+  matplotlib
+  pyadi-iio
