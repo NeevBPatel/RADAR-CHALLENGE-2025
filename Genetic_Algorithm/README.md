@@ -10,5 +10,5 @@ The practical implementation was carried out using the Analog Devices CN0566 Pha
 The CN0566 Phaser kit was configured as a receiver-only phased array antenna system and used as the receiver in the experiment. The transmitter was an HB100, a digital 10.525 GHz microwave motion detector sensor provided by DFRobot, operating as a continuous wave signal source. As shown, the HB100 was positioned at the mechanical boresight (0° azimuth) of the Phaser kit, at a distance of 5m in an open environment. RF System Specifications were as follows: It’s operating frequency range, fc was 10.0–10.5 GHz (X-band), Centre Frequency set to 10.25GHz and The-3 dB bandwidth of the antennas ranged from 9.9 to 10.8GHz, whereas Intermediate Frequency – fIF was 2.2GHz after down conversion.
 
 # Results
--20 Degrees
 ![imaging](gen_1.gif)
+-20 Degrees
