@@ -9,8 +9,4 @@ __IDE:__
 Spyder
 
 __Essential Libraries:__
-numpy
-  ,scipy
-  ,Cupy
-  ,matplotlib
-  ,pyadi-iio
+numpy, scipy, Cupy, matplotlib, pyadi-iio
