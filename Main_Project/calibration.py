@@ -355,8 +355,6 @@ def phaser_beamsteer():
     time.sleep(0.5) # recommended by Analog Devices
 
     phaser.configure(device_mode="rx")
-
-    # Set all antenna elements to half scale - a typical HB100 will have plenty of signal power.
     
     #gain_list = [53, 73, 125, 119, 71, 114, 68, 43]
     #gain_list = [127]*8
@@ -382,7 +380,7 @@ def phaser_beamsteer():
     # Aim the beam at boresight (zero degrees)
     phaser.set_beam_phase_diff(0.0)
 
-    # Misc SDR settings, not super critical to understand
+    # Misc SDR settings
     sdr._ctrl.debug_attrs["adi,frequency-division-duplex-mode-enable"].value = "1"
     sdr._ctrl.debug_attrs["adi,ensm-enable-txnrx-control-enable"].value = "0" # Disable pin control so spi can move the states
     sdr._ctrl.debug_attrs["initialize"].value = "1"
