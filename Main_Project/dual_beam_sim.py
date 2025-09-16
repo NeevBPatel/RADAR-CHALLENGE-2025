@@ -31,8 +31,6 @@ phaser.configure(device_mode="rx")
 phaser.load_gain_cal()
 phaser.load_phase_cal()
 
-# Set all antenna elements to half scale - a typical HB100 will have plenty of signal power.
-
 
 gain_list = [127]*8
 
@@ -97,10 +95,11 @@ angle_list = [-30, 20]
 powers = []
     
 #%% Take Data
-
+# Record Data After rotating the phaser kit, by specific degrees, on a gimble 
 data = sdr.rx()
 data = data[0] + data[1]
 power_dB = 10*np.log10(np.sum(np.abs(data)**2))
 powers.append(power_dB)
 print(power_dB)
+
 
