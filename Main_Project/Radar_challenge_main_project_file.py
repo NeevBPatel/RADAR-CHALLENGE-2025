@@ -542,7 +542,7 @@ while continuous_operation:
                 print(f"Target 0 recovered at angle={new_angle:.1f}°, freq={new_freq/1000:.1f}kHz")
             
             case [True, True]:
-                # Both targets lost - NEW CASE
+                # Both targets lost
                 print("BOTH TARGETS LOST! Initiating dual target recovery...")
                 recovery_attempts += 1
                 
@@ -591,5 +591,6 @@ try:
     print("SDR buffer destroyed successfully.")
 except:
     print("Error destroying SDR buffer.")
+
 
 print("Cleanup complete. System shutdown.")
