@@ -16,7 +16,7 @@ The team belongs to the Electronics and Communication Department, Dharmsinh Desa
 
 ### Neev Biren Patel (Team Leader)
 > Neev Biren Patel, currently pursuing B.Tech, is a dedicated student focused on radar 
-systems and wireless communications. His research interests include Adaptive Phased 
+systems and wireless communications. His research interests include Neural Networks, Machine Learning, High Performance Computing, Signal Processing, Adaptive Phased 
 Arrays, Digital Beamforming, MIMO techniques, and 5G/6G Wireless Networks.
 
 ### Dr. Rizwan H. Alad (Team Mentor)
