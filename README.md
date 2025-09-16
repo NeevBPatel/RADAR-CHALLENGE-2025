@@ -3,10 +3,10 @@ Welcome to the Repository of our project for the 2025 IEEE AESS Radar Challenge 
 
 # Software Used
 __Coding language:__
-Python-3.10.15
+Python-3.10.15, MATLAB
 
 __IDE:__
-Spyder
+Spyder, MATLAB
 
 __Essential Libraries:__
 numpy, scipy, Cupy, matplotlib, pyadi-iio, adi
